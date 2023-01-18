@@ -19,3 +19,6 @@ a quick tutorial of deep learning
 
 6. try_espnet.ipynb
    Run large vocabulary speech recognition using ESPnet with pre-trained neural networks
+   
+7. pytorch_rl_intro.ipynb
+   Run a DQN demo using stable baseline3 
